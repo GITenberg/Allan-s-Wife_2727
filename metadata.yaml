@@ -1,0 +1,46 @@
+_repo: Allan-s-Wife_2727
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: "Allan's Wife and Other Tales is a collection of Allan Quatermain stories\
+  \ by H. Rider Haggard, first published in London by Spencer Blackett in December\
+  \ 1889. The title story was new, with its first publication intended for the collection,\
+  \ but two unauthorized editions appeared earlier in New York, based on pirated galley\
+  \ proofs. The other three stories first appeared in an anthology and periodicals\
+  \ in 1885, 1887, and 1886.\nThe significance of the collection was recognized by\
+  \ its republication (as Allan's Wife, With Hunter Quartermain's Story, a Tale of\
+  \ Three Lions, and Long Odds) by the Newcastle Publishing Company as the twenty-fourth\
+  \ volume of the celebrated Newcastle Forgotten Fantasy Library series in October,\
+  \ 1980.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Movie Books
+- Adventure
+gutenberg_issued: '2006-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2727'
+  wikidata: Q4730445
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quatermain, Allan (Fictitious character) -- Fiction'
+- !lcsh 'Africa -- Fiction'
+- !lcsh 'Hunting guides -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- GITenberg
+title: Allan's Wife
+url: http://www.gutenberg.org/ebooks/2727
+wikipedia:
+- https://en.wikipedia.org/wiki/Allan%27s_Wife_and_Other_Tales
