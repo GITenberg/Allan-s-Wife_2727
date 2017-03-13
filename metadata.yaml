@@ -1,5 +1,8 @@
 _repo: Allan-s-Wife_2727
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -21,6 +24,8 @@ description: "Allan's Wife and Other Tales is a collection of Allan Quatermain s
   \ Three Lions, and Long Odds) by the Newcastle Publishing Company as the twenty-fourth\
   \ volume of the celebrated Newcastle Forgotten Fantasy Library series in October,\
   \ 1980.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2727#Allan-s-Wife
 gutenberg_bookshelf:
 - Movie Books
 - Adventure
